@@ -1,0 +1,3 @@
+tämä on tarina.
+
+Olipa kerran koodari, joka opettelee git:n käyttöä. Sen pituinen se!
